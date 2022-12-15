@@ -1,11 +1,11 @@
-## Create a basic tile
+## Create a single tile
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use the **cube** object to create a basic tile shape.
+Use the **cube** object to create a single tile shape.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![An image of a single tile object with bevelled corners.](images/3D-tile.png){:width="300px"}
 </div>
 </div>
 
@@ -23,9 +23,11 @@ A **Cube** object has been created for you. The cube has an orange border to sho
 
 --- task ---
 
-Zoom into your cube so that it 
+🔎 **Zoom in** to your cube so that you can see it clearly.
 
-**Change** your view to see the cube from different angles and distances. Find a view you are happy with. 
+![The starter cube now appears larger in the Blender window.](images/zoomed-cube.PNG)
+
+You can also rotate around the cube until your find a view that you are happy with.  
 
 --- collapse ---
 ---
@@ -88,7 +90,27 @@ Change the number of segments to `20`. This gives a smoother edge.
 
 --- task ---
 
-Click on the Bevel dropdown arrow and select **Apply** 
+**Choose:** the number of segments to `20`. This gives a smoother edge. 
+
+![A screen capture of the 3D cube with smooth edges. The number in the Segments property is 20.](images/bevel-segments.png)
+
+--- /task ---
+
+--- task ---
+
+Click on the Bevel dropdown arrow and select **Apply**. 
+
+![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
+
+**Notice:** The bevel modifier has now disapeared from the Modifier pane.
+
+--- /task ---
+
+--- task ---
+
+Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoothed out appearance. 
+
+![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
 
 --- /task ---
 
@@ -98,6 +120,6 @@ Click on the Bevel dropdown arrow and select **Apply**
 
 ![File save window with the name floor dot blend.](images/blender-save-as.png)
 
---- /task ---
+**Tip:** You can reopen a saved Blender project using 'File' -> 'Open'. 
 
-**Tip:** You can reopen an existing Blender project using 'File' -> 'Open'. 
+--- /task ---
