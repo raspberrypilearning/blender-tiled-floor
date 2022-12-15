@@ -90,14 +90,6 @@ Change the number of segments to `20`. This gives a smoother edge.
 
 --- task ---
 
-**Choose:** the number of segments to `20`. This gives a smoother edge. 
-
-![A screen capture of the 3D cube with smooth edges. The number in the Segments property is 20.](images/bevel-segments.png)
-
---- /task ---
-
---- task ---
-
 Click on the Bevel dropdown arrow and select **Apply**. 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
@@ -110,7 +102,7 @@ Click on the Bevel dropdown arrow and select **Apply**.
 
 Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoothed out appearance. 
 
-![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
+![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/smooth-shade.png)
 
 --- /task ---
 
