@@ -1,17 +1,16 @@
 ---
-title: explore-project-template
+title: Blender - Create a 3D tiled floor
 hero_image: images/banner.png
-description: explore-project-template description
+description: Create a 3D tile then use array modifiers to make a full floor
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-03-26'
 steps:
-- title: Introduction
-- title: Step title
-- title: Step title
-- title: Step title
-- title: Reflection
+- title: You will make
+- title: Create your first tile
+- title: Make a tile floor
+- title: Quick quiz
   knowledge_quiz:
     path: quiz1
     version: 1
