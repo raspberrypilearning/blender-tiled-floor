@@ -93,7 +93,7 @@ This creates 8 row of 8 tiles:
 
 Click on the Array dropdown arrow and select **Apply**: 
 
-![The Array dropdown expanded with top menu item `apply` highlighted.](images/eight-tiles.png)
+![The Array dropdown expanded with top menu item `apply` highlighted.](images/apply-array1.png)
 
 --- /task ---
 
