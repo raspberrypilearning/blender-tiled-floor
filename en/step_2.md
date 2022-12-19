@@ -13,7 +13,7 @@ Use the **cube** object to create a single tile shape.
 
 Open Blender. Click outside the **splash screen** to close it. 
 
-![Splash screen popup.](images/blender-first.png)
+![Splash screen popup.](images/splash-screen.png)
 
 A **Cube** object has been created for you. The cube has an orange border to show it is the selected object.
 
