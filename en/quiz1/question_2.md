@@ -5,37 +5,31 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
-
-```blocks3
-say [Hello!] for [2] secs
-```
-
-Where would you go to find this block?
+Bevel and Array are types of what? 
 
 --- choices ---
 
-- (x) 
+- () Objects
 
   --- feedback ---
+
+  Not quite. Objects are items in a scene. These can be things like cameras, lights, and shapes. **Hint:** Your project had a Cube object that you applied bevels and arrays to. 
 
   --- /feedback ---
 
-- ( ) 
+- (x) Modifiers
 
   --- feedback ---
+
+  That's right, Bevel and Array are types of modifier. Modifiers let you quickly change the appearance of an object. You can add more than one modifier to an object like you did with your cube. 
 
   --- /feedback ---
 
-- ( ) 
+- ( ) Offset
 
   --- feedback ---
 
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
+  Not quite, an offset is the distance between objects. **Hint:** An offset property can be set when using an Array. 
 
   --- /feedback ---
 

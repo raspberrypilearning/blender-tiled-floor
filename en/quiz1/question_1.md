@@ -1,10 +1,10 @@
-## Reflection
+## Quick quiz
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Answer these three questions to get your 'Blender - Create a 3D tiled floor' badge. 
 
-Answer the three questions below to reflect on what you've learned.
+There are hints to guide you to the correct answer. 
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+When you have answered each question, click on **Check my answer**.
 
 Have fun!
 
@@ -14,30 +14,31 @@ Have fun!
 legend: Question 1 of 3
 ---
 
+To turn the 3D Cube object into a shorter tile shape you decreased the value in the `Scale` property. Which scale axis did you change? 
 
 --- choices ---
 
-- ( )
+- ( ) X axis
 
   --- feedback ---
+
+  Not quite, this is not the axis that points up in Blender. 
 
   --- /feedback ---
 
-- ( )
+- ( ) Y axis
 
   --- feedback ---
+
+  Not quite, this is not the axis that points up in Blender. 
 
   --- /feedback ---
 
-- (x) 
+- (x) Z axis
 
   --- feedback ---
 
-  --- /feedback ---
-
-- ( ) 
-
-  --- feedback ---
+  That's right, in the coordinates system used by Blender the Z axis points up. Changing the Scale Z property makes the object taller or shorter. 
 
   --- /feedback ---
 
