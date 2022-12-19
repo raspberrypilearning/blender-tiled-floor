@@ -1,27 +1,62 @@
-## Step title
+## Make a tiled floor
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add an introductory sentence. What will learners achieve by the end of this step?
+Use your single tile to create an 8 by 8 tiled floor.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![](images/tiled-floor.png){:width="300px"}
 </div>
 </div>
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+An <span style="color: #0faeb0">**array modifier**</span> creates copies of an oject that can be offset to create a pattern of repetative objects. An Architect could use an array modifier to create a spiral staircase for a home from just one step. Or when designing a model for an office building they could copy a car in a parking space to create a full carpark.</p>
 
 --- task ---
 
-Another step of tasks to complete.
+
 
 --- /task ---
 
 --- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
+
+--- /task ---
+
+--- task ---
+
+
 
 --- /task ---
 
