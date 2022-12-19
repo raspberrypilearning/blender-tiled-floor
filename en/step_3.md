@@ -12,7 +12,11 @@ Use your single tile to create an 8 by 8 tiled floor.
 ### Create one row of 8 tiles
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-An <span style="color: #0faeb0">**array modifier**</span> creates copies of an object that can be offset to create a pattern of repetative objects. An Architect could use an array modifier to create a spiral staircase for a home from just one step. Or when designing a model for an office building they could copy a tree to place them along a path.</p>
+An <span style="color: #0faeb0">**array modifier**</span> creates copies of an object that can be offset to create a pattern of repetative objects. An Architect could use an array modifier to create a staircase for a home from just one step. Or when designing a model for an office building they could use an array modifier to place trees along a path.
+
+![A highlgihted stair object that has been duplicated and offset to create a staircase.](images/stair-array.png)
+
+</p>
 
 --- task ---
 
