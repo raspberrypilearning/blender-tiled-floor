@@ -11,11 +11,11 @@ Use the **cube** object to create a single tile shape.
 
 --- task ---
 
-Open Blender. Click outside the **splash screen** to close it. 
+Open Blender. Click outside the **splash screen** to close it: 
 
 ![Splash screen popup.](images/splash-screen.png)
 
-A **Cube** object has been created for you. The cube has an orange border to show it is the selected object.
+A **Cube** object has been created for you. The cube has an orange border to show it is the selected object:
 
 ![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
 
@@ -23,9 +23,9 @@ A **Cube** object has been created for you. The cube has an orange border to sho
 
 --- task ---
 
-🔎 **Zoom in** to your cube so that you can see it clearly.
+🔎 **Zoom in** to your cube so that you can see it clearly:
 
-![The starter cube now appears larger in the Blender window.](images/zoomed-cube.PNG)
+![The starter cube now appears larger in the Blender window.](images/zoomed-cube.png)
 
 You can also rotate around the cube until your find a view that you are happy with.  
 
@@ -62,7 +62,7 @@ Within the **Transform** settings, find **Scale** and change the Z (up-down) axi
 
 --- task ---
 
-Click on the 'Modifier properties' icon to open the Modifier properties pane. 
+Click on the 'Modifier properties' icon to open the Modifier properties pane: 
 
 ![A screen capture of the Blender editor. The Modifier properties icon is highlighted, it is blue wrench.](images/modifier-properties.png)
 
@@ -70,11 +70,11 @@ Click on the 'Modifier properties' icon to open the Modifier properties pane.
 
 --- task ---
 
-Click on the 'Add modifier' dropdown then choose **Bevel**. 
+Click on the 'Add modifier' dropdown then choose **Bevel**: 
 
 ![A screen capture of the Modifier properties pane with Bevel highlighted in the list of modifiers.](images/bevel-modifier.png)
 
-**Notice:** The edges of the cube now have a bevel effect.
+**Notice:** The edges of the cube now have a bevel effect:
 
 ![The 3D cube with a bevel effect on all edges.](images/bevel-effect.png)
 
@@ -82,7 +82,7 @@ Click on the 'Add modifier' dropdown then choose **Bevel**.
 
 --- task ---
 
-Change the number of segments to `20`. This gives a smoother edge. 
+Change the number of segments to `20`. This gives a smoother edge: 
 
 ![A screen capture of the 3D cube with smooth edges. The number in the Segments property is 20.](images/bevel-segments.png)
 
@@ -90,7 +90,7 @@ Change the number of segments to `20`. This gives a smoother edge.
 
 --- task ---
 
-Click on the Bevel dropdown arrow and select **Apply**. 
+Click on the Bevel dropdown arrow and select **Apply**: 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
 
@@ -100,7 +100,7 @@ Click on the Bevel dropdown arrow and select **Apply**.
 
 --- task ---
 
-Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoothed out appearance. 
+Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoothed out appearance: 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/smooth-shade.png)
 
@@ -108,7 +108,7 @@ Right-click on the 3D cube model then select **Shade Smooth** to give your segme
 
 --- task ---
 
-**Save** your project using 'File' -> 'Save As'. Name your file 'floor.blend'. 
+**Save** your project using 'File' -> 'Save As'. Name your file 'floor.blend': 
 
 ![File save window with the name floor dot blend.](images/blender-save-as.png)
 
