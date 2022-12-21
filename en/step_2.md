@@ -27,7 +27,7 @@ A **Cube** object has been created for you. The cube has an orange border to sho
 
 ![The starter cube now appears larger in the Blender window.](images/zoomed-cube.png)
 
-You can also rotate around the cube until your find a view that you are happy with.  
+You can also 🔄 **rotate** around the cube until your find a view that you are happy with.  
 
 --- collapse ---
 ---
@@ -74,7 +74,7 @@ Click on the 'Add modifier' dropdown then choose **Bevel**:
 
 ![A screen capture of the Modifier properties pane with Bevel highlighted in the list of modifiers.](images/bevel-modifier.png)
 
-**Notice:** The edges of the cube now have a bevel effect:
+**Notice:** 👀 The edges of the cube now have a bevel effect:
 
 ![The 3D cube with a bevel effect on all edges.](images/bevel-effect.png)
 
@@ -94,7 +94,7 @@ Click on the Bevel dropdown arrow and select **Apply**:
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
 
-**Notice:** The bevel modifier has now disapeared from the Modifier pane.
+**Notice:** 👀 The bevel modifier has now disapeared from the Modifier pane.
 
 --- /task ---
 
