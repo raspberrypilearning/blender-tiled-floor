@@ -33,7 +33,7 @@ In which of these fields could people work with Blender?
 
   --- /feedback ---
 
-- ( ) All of the above
+- (x) All of the above
 
   --- feedback ---
 
