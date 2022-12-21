@@ -11,7 +11,7 @@ Use the **cube** object to create a single tile shape.
 
 --- task ---
 
-Open Blender. Click outside the **splash screen** to close it: 
+Open Blender then click outside the **splash screen**: 
 
 ![Splash screen popup.](images/splash-screen.png)
 

@@ -25,7 +25,7 @@ Bevel and Array are types of what?
 
   --- /feedback ---
 
-- ( ) Offset
+- ( ) Offsets
 
   --- feedback ---
 

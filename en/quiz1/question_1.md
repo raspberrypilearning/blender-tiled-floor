@@ -14,7 +14,9 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-To turn the 3D Cube object into a shorter tile shape you decreased the value in the `Scale` property. Which scale axis did you change? 
+To turn the 3D Cube object into a shorter 3D tile shape you decreased the value in the `Scale` property for the up pointing axis. 
+
+Which axis points up in Blender? 
 
 --- choices ---
 

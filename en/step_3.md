@@ -14,7 +14,7 @@ Use your single tile to create an 8 by 8 tiled floor.
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 An <span style="color: #0faeb0">**array modifier**</span> creates copies of an object that can be offset to create a pattern of repetative objects. An Architect could use an array modifier to create a staircase for a home from just one step. Or when designing a model for an office building they could use an array modifier to place trees along a path.
 
-![A highlgihted stair object that has been duplicated and offset to create a staircase.](images/stair-array.png)
+![A highlgihted stair object that has been duplicated and offset to create a staircase.](images/stair-array.png){:width="300px"}
 
 </p>
 
@@ -30,14 +30,17 @@ The Array modifier automatically creates a second tile.
 
 ![Two tiles side by side. In the modifier pane the count is '2'.](images/two-tiles.png)
 
-
 --- /task ---
+
+--- task ---
 
 Change the value in the **Count** property to `8`. 
 
 This creates a row of 8 tiles side by side:
 
 ![Eight tiles side by side. In the modifier pane the count is '8'.](images/eight-tiles.png)
+
+--- /task ---
 
 --- task ---
 
@@ -53,7 +56,7 @@ Change the value in the **Factor X** property to `1.100` to increase the offest 
 
 Click on the Array dropdown arrow and select **Apply**: 
 
-![The Array dropdown expanded with top menu item `apply` highlighted.](images/eight-tiles.png)
+![The Array dropdown expanded with top menu item `apply` highlighted.](images/apply-array1.png)
 
 --- /task ---
 
@@ -117,7 +120,7 @@ Right-click on the highlighted tiles and select 'Separate' --> 'By Loose Parts':
 
 ![The object right-click menu with 'By Loose Parts' highlighted.](images/loose-parts.png)
 
-There are now 64 individual tiles each shown as a Cub object in the Scene Collection:
+There are now 64 individual tiles each shown as a Cube object in the Scene Collection:
 
 ![64 individual tiles shown by an orange border around each. Each cube is shown in a list of numbered cube objects in the scene collection shown as 'Cube 001', 'Cube 002' etc.](images/64-cubes.png)
 
