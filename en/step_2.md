@@ -15,7 +15,7 @@ Open Blender then click outside the **splash screen**:
 
 ![Splash screen popup.](images/splash-screen.png)
 
-A **Cube** object has been created for you. The cube has an orange border to show it is the selected object:
+A **Cube** object has been created for you. The cube has an orange outline to show it is the selected object:
 
 ![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
 
@@ -23,15 +23,13 @@ A **Cube** object has been created for you. The cube has an orange border to sho
 
 --- task ---
 
-🔎 **Zoom in** to your cube so that you can see it clearly:
+🔎 **Zoom in** and 🔄 **rotate** your view to see the cube clearly:
 
 ![The starter cube now appears larger in the Blender window.](images/zoomed-cube.png)
 
-You can also 🔄 **rotate** around the cube until your find a view that you are happy with.  
-
 --- collapse ---
 ---
-title: Changing your view in Blender
+title: Zoom and rotate in Blender
 ---
 
 **Tip:** To navigate Blender using a computer mouse with a middle scroll button:
@@ -52,11 +50,11 @@ title: Changing your view in Blender
 
 Click on the 'Object properties' icon to open the Object properties pane. 
 
-Within the **Transform** settings, find **Scale** and change the Z (up-down) axis property to `0.3`:
+Goto the **Transform** settings and find **Scale**. Change the **Z** (up-down) axis property to `0.3`:
 
 ![A screen capture of the Blender editor. The Object properties icon is highlighted, it is an orange square with corners highlighted. In the Object properties window,  the Scale Z property is highlighted showing the number is '0.3'.](images/object-properties.png)
 
-**Tip:** In the coordinates system used by Blender the **Z axis** points up. You might have used other software such as Unity that uses the Y axis to point up. 
+**Tip:** In the coordinates system used by Blender the **Z axis** points up. You might have used another coordinates system at school or another software such as Unity that uses the Y axis to point up. 
 
 --- /task ---
 
@@ -66,6 +64,8 @@ Click on the 'Modifier properties' icon to open the Modifier properties pane:
 
 ![A screen capture of the Blender editor. The Modifier properties icon is highlighted, it is blue wrench.](images/modifier-properties.png)
 
+**Tip:** The icons in Blender are very small. Hover over them with your mouse to see a tool tip with the name of the tool.
+
 --- /task ---
 
 --- task ---
@@ -74,7 +74,7 @@ Click on the 'Add modifier' dropdown then choose **Bevel**:
 
 ![A screen capture of the Modifier properties pane with Bevel highlighted in the list of modifiers.](images/bevel-modifier.png)
 
-**Notice:** 👀 The edges of the cube now have a bevel effect:
+**Notice:** 👀 The edges of the cube are now sloped:
 
 ![The 3D cube with a bevel effect on all edges.](images/bevel-effect.png)
 
@@ -82,7 +82,7 @@ Click on the 'Add modifier' dropdown then choose **Bevel**:
 
 --- task ---
 
-Change the number of segments to `20`. This gives a smoother edge: 
+Change the number of segments to `20`. This gives a smoother sloped edge: 
 
 ![A screen capture of the 3D cube with smooth edges. The number in the Segments property is 20.](images/bevel-segments.png)
 
@@ -90,17 +90,17 @@ Change the number of segments to `20`. This gives a smoother edge:
 
 --- task ---
 
-Click on the Bevel dropdown arrow and select **Apply**: 
+Click on the 'Bevel' dropdown arrow and select **Apply**: 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
 
-**Notice:** 👀 The bevel modifier has now disapeared from the Modifier pane.
+**Notice:** 👀 The Bevel modifier has now disapeared from the Modifier pane.
 
 --- /task ---
 
 --- task ---
 
-Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoothed out appearance: 
+Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoother appearance: 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/smooth-shade.png)
 

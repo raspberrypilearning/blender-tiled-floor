@@ -12,7 +12,7 @@ Use your single tile to create an 8 by 8 tiled floor.
 ### Create one row of 8 tiles
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-An <span style="color: #0faeb0">**array modifier**</span> creates copies of an object that can be offset to create a pattern of repetative objects. An Architect could use an array modifier to create a staircase for a home from just one step. Or when designing a model for an office building they could use an array modifier to place trees along a path.
+An <span style="color: #0faeb0">**array modifier**</span> creates copies of an object that can be placed at a distance to create a pattern of repetative objects. An Architect could use an array modifier to create a staircase for a home from just one step. Or when designing a model for an office building they could use an array modifier to place trees along a path.
 
 ![A highlgihted stair object that has been duplicated and offset to create a staircase.](images/stair-array.png){:width="300px"}
 
@@ -44,9 +44,9 @@ This creates a row of 8 tiles side by side:
 
 --- task ---
 
-The tiles are offset by `1.000` this means they are next to each other with no gap. 
+The tiles are offset by `1.000` this means they are placed next to each other with no gap. 
 
-Change the value in the **Factor X** property to `1.100` to increase the offest distance and create a small gap between tiles:
+Change the value in the **Factor X** property to `1.100` to increase the offset placement distance and create a small gap between tiles:
 
 ![In the modifier pane the Factor X property is highlighted showing '1.100' the tiles have a small gap between them in the row.](images/offset-tiles.png)
 
@@ -78,9 +78,9 @@ The Array modifier automatically creates a second row of 8 tiles that are also o
 
 --- task ---
 
-To create an 8 by 8 grid of tiles, the offset needs to be on the **Y axis**. 
+To create an 8 by 8 grid of tiles, the offset placements needs to be along the **Y axis**. 
 
-Change the value in the **Factor X** property to `0.000` and the **Factor Y** value to `1.100`:
+Change the value in the **Factor X** property to `0.000`. Change the **Factor Y** property value to `1.100`:
 
 ![The offest values in the Array modifier have been updated and two rows of 8 objects have been created.](images/offset-y.png)
 
@@ -104,11 +104,11 @@ Click on the Array dropdown arrow and select **Apply**:
 
 --- /task ---
 
-### Seperate the grid into 64 seperate tile objects
+### Separate the grid into 64 separate tile objects
 
 --- task ---
 
-Click on the mode dropdown menu and select **Edit Mode**:
+Click on the mode dropdown menu and select 'Edit Mode':
 
 ![Edit mode selected from the mode dropdown in the top left corner of the editor.](images/edit-mode.png)
 

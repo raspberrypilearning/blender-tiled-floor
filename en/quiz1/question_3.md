@@ -37,7 +37,7 @@ In which of these fields could people work with Blender?
 
   --- feedback ---
 
-  That's right, Blender is used by professionals in many fields including architecture, fashion, and animaion. 
+  That's right, Blender is used by professionals in many fields including architecture, fashion, and animation. 
 
   --- /feedback ---
 

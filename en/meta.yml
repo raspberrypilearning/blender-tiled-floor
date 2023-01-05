@@ -9,7 +9,7 @@ last_tested: '2021-03-26'
 steps:
 - title: You will make
 - title: Create your first tile
-- title: Make a tile floor
+- title: Make a tiled floor
 - title: Quick quiz
   knowledge_quiz:
     path: quiz1
