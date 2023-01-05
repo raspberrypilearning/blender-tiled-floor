@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use the **cube** object to create a single tile shape.
+Use the **Cube** object to create a single tile shape.
 </div>
 <div>
 ![An image of a single tile object with bevelled corners.](images/3D-tile.png){:width="300px"}
@@ -54,9 +54,11 @@ Goto the **Transform** settings and find **Scale**. Change the **Z** (up-down) a
 
 ![A screen capture of the Blender editor. The Object properties icon is highlighted, it is an orange square with corners highlighted. In the Object properties window,  the Scale Z property is highlighted showing the number is '0.3'.](images/object-properties.png)
 
-**Tip:** In the coordinates system used by Blender the **Z axis** points up. You might have used another coordinates system at school or another software such as Unity that uses the Y axis to point up. 
+**Tip:** In the coordinates system used by Blender the **Z axis** points up. You might have used another coordinates system, some software such as Unity uses the Y axis to point up. 
 
 --- /task ---
+
+### Use a Bevel modifier to add sloped edges
 
 --- task ---
 
@@ -79,6 +81,8 @@ Click on the 'Add modifier' dropdown then choose **Bevel**:
 ![The 3D cube with a bevel effect on all edges.](images/bevel-effect.png)
 
 --- /task ---
+
+### Create smoother sloped edges
 
 --- task ---
 
