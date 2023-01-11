@@ -15,7 +15,7 @@ Open Blender then click outside the **splash screen**:
 
 ![Splash screen popup.](images/splash-screen.png)
 
-A **Cube** object has been created for you. The cube has an orange outline to show it is the selected object:
+A new Blender project always includes a **Cube** object. The cube has an orange outline to show it is the selected object:
 
 ![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
 
@@ -58,7 +58,7 @@ Goto the **Transform** settings and find **Scale**. Change the **Z** (up-down) a
 
 --- /task ---
 
-### Use a Bevel modifier to add sloped edges
+### Add sloped edges with a Bevel modifier
 
 --- task ---
 
