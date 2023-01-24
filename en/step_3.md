@@ -104,26 +104,4 @@ Click on the Array dropdown arrow and select **Apply**:
 
 --- /task ---
 
-### Separate the grid into 64 separate tile objects
-
---- task ---
-
-Click on the mode dropdown menu and select 'Edit Mode':
-
-![Edit mode selected from the mode dropdown in the top left corner of the editor.](images/edit-mode.png)
-
---- /task ---
-
---- task ---
-
-Right-click on the highlighted tiles and select 'Separate' --> 'By Loose Parts':
-
-![The object right-click menu with 'By Loose Parts' highlighted.](images/loose-parts.png)
-
-There are now 64 individual tiles each shown as a Cube object in the Scene Collection:
-
-![64 individual tiles shown by an orange border around each. Each cube is shown in a list of numbered cube objects in the scene collection shown as 'Cube 001', 'Cube 002' etc.](images/64-cubes.png)
-
---- /task ---
-
 --- save ---
