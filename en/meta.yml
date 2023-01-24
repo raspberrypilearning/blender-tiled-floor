@@ -10,6 +10,7 @@ steps:
 - title: You will make
 - title: Create your first tile
 - title: Make a tiled floor
+- title: Set the floor centre
 - title: Quick quiz
   knowledge_quiz:
     path: quiz1
