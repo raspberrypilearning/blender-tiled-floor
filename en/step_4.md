@@ -2,16 +2,16 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Move the origin point so that it is at the center of your tile floor.
+In Blender, objects move around an origin point. You can move the origin point of an object.
 </div>
 <div>
 ![](images/tiled-floor.png){:width="300px"}
 </div>
 </div>
 
-### Centre the origin point
+### Move the origin point to the centre of your floor
 
-The origin point is set to the centre of your original tile. The X and Y axis lines will meet in this point:
+The origin point is set to the centre of your original cube tile. The X and Y axis lines meet in this point:
 
 ![View of the whole dance floor with the origin point marker shown in the top-left corner. The X and Y axis lines are shown meeting in the origin point.](images/original-origin.png)
 
@@ -25,15 +25,17 @@ Go to the **Scene Collection** pane and click on the 'Cube' object:
 
 --- task ---
 
-Go to Object -> Set Origin -> Geometry of origin.
+Go to the Object menu and select 'Set Origin' -> 'Geometry of origin'.
 
-The origin marker will move to the centre and the X and Y axis lines will meet in this point:
+The origin marker will move to the centre of the and the X and Y axis lines will meet in this point:
 
 ![View of the whole dance floor with the origin point marker shown in the centre of the whole dance floor. The X and Y axis lines are shown meeting in the centre at the origin point.](images/centered-origin.png)
 
 --- /task ---
 
 ### Separate the grid into 64 separate tile objects
+
+The 8 by 8 grid of tiles displayed is still one object. This object can be separated into 64 independent tile objects.  
 
 --- task ---
 
