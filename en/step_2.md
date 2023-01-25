@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use the **Cube** object to create a single tile shape.
+In Blender you can create 3D objects such as cubes. Cubes can be edited to create  objects including dice, boxes or tiles.
 </div>
 <div>
 ![An image of a single tile object with bevelled corners.](images/3D-tile.png){:width="300px"}
@@ -29,16 +29,27 @@ A new Blender project always includes a **Cube** object. The cube has an orange 
 
 --- collapse ---
 ---
-title: Zoom and rotate in Blender
+title: Use a mouse with a scroll button to zoom and rotate 
 ---
 
-**Tip:** To navigate Blender using a computer mouse with a middle scroll button:
+To navigate Blender using a computer mouse with a middle scroll button:
 + Hold the middle-button down and drag the mouse around to rotate the view
 + Scroll the middle-button forward and backward to zoom in and out of the view
 
 ![An animation showing the view rotating around the cube.](images/navigate-cube.gif)
 
-**Tip:** If you do not have a computer mouse with a middle-button you can use the navigation icons. Place the mouse over the **zoom** or **move** icons to see the cursor change to 4 arrows. Hold the left mouse button down then drag the mouse around to change the view. 
+--- /collapse ---
+
+--- collapse ---
+---
+title: Use a mouse without a scroll button to zoom and rotate
+---
+
+If you do not have a computer mouse with a middle-button you can use the navigation icons. 
+
+Place the mouse over the **zoom** or **move** icons to see the cursor change to 4 arrows. 
+
+Hold the left mouse button down then drag the mouse around to change the view. 
 
 ![An animation showing the navigation icons being used to zoom in and out and rotate around the cube.](images/navigate-mouse.gif)
 
@@ -107,6 +118,10 @@ Click on the 'Bevel' dropdown arrow and select **Apply**:
 Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoother appearance: 
 
 ![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/smooth-shade.png)
+
+**Debug:** If you do not see the 'Shade Smooth' menu option, make sure you are in 'Object mode': 
+
+![The mode dropdown expanded with `Object mode` highlighted.](images/object-mode.png)
 
 --- /task ---
 

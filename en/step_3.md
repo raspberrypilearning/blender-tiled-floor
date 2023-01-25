@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Use your single tile to create an 8 by 8 tiled floor.
+In Blender you can quickly create multiple copies of an object and place them in a pattern.
 </div>
 <div>
 ![](images/tiled-floor.png){:width="300px"}
