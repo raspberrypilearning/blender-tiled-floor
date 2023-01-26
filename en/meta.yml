@@ -11,11 +11,11 @@ steps:
 - title: Create your first tile
 - title: Make a tiled floor
 - title: Set the floor centre
-- title: Use your tiled floor
 - title: Quick quiz
   knowledge_quiz:
     path: quiz1
     version: 1
     questions: 3
     passing_score: 3
-- title: What next?
+- title: Use your tiled floor in Unity
+- title: Use your new skills in Blender
