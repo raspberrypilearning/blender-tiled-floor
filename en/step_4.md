@@ -25,7 +25,7 @@ Go to the **Scene Collection** pane and click on the 'Cube' object:
 
 --- task ---
 
-Go to the Object menu and select 'Set Origin' -> 'Geometry of origin'.
+Go to the Object menu and select 'Set Origin' -> 'Geometry to origin'.
 
 The origin marker will move to the centre of the and the X and Y axis lines will meet in this point:
 
