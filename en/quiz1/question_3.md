@@ -13,7 +13,7 @@ In which of these fields could people work with Blender?
 
   --- feedback ---
 
-  Not quite, Blender can be used for architecture but that is not the only field.
+  Not quite. Blender can be used for architecture, but that is not the only field it can be used in.
 
   --- /feedback ---
 
@@ -21,7 +21,7 @@ In which of these fields could people work with Blender?
 
   --- feedback ---
 
-  Not quite, Blender can be used for fashion but that is not the only field.
+  Not quite. Blender can be used for fashion, but that is not the only field it can be used in.
 
   --- /feedback ---
 
@@ -29,7 +29,7 @@ In which of these fields could people work with Blender?
 
   --- feedback ---
 
-  Not quite, Blender can be used for animation but that is not the only field.
+  Not quite. Blender can be used for animation, but that is not the only field it can be used in.
 
   --- /feedback ---
 
@@ -37,7 +37,7 @@ In which of these fields could people work with Blender?
 
   --- feedback ---
 
-  That's right, Blender is used by professionals in many fields including architecture, fashion, and animation. 
+  That's right. Blender is used by professionals in many fields, including architecture, fashion, and animation.
 
   --- /feedback ---
 
