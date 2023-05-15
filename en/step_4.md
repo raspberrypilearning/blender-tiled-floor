@@ -5,7 +5,7 @@
 In Blender, objects move around an origin point. You can move the origin point of an object.
 </div>
 <div>
-![](images/tiled-floor.png){:width="300px"}
+![](images/centered-origin.png){:width="300px"}
 </div>
 </div>
 
