@@ -3,8 +3,8 @@ title: "Blender: Create a 3D tiled floor"
 hero_image: images/banner.png
 description: Create a 3D tile in Blender then use Array modifiers to make a full floor
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2021-03-26'
 steps:
 - title: You will make
