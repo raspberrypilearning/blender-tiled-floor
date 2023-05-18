@@ -2,22 +2,22 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In Blender you can create 3D objects such as cubes. Cubes can be edited to create  objects including dice, boxes or tiles.
+In Blender, you can create 3D objects such as cubes. Cubes can be edited to create objects including dice, boxes, and tiles.
 </div>
 <div>
-![An image of a single tile object with bevelled corners.](images/3D-tile.png){:width="300px"}
+![A tile object with bevelled edges in Blender.](images/3D-tile.png){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
-Open Blender then click outside the **splash screen**: 
+Open Blender. Click outside the **splash screen** to close it:
 
-![Splash screen popup.](images/splash-screen.png)
+![The splash screen in Blender.](images/splash-screen.png)
 
 A new Blender project always includes a **Cube** object. The cube has an orange outline to show it is the selected object:
 
-![A 3D cube shown in the Object view. The Cube object is also highlighted in the Scene Collection window.](images/starter-cube.png)
+![A screenshot of Blender with a 3D cube with an orange outline in the 3D view. The Cube object is also highlighted in the Scene Collection pane.](images/starter-cube.png)
 
 --- /task ---
 
@@ -25,16 +25,16 @@ A new Blender project always includes a **Cube** object. The cube has an orange 
 
 🔎 **Zoom in** and 🔄 **rotate** your view to see the cube clearly:
 
-![The starter cube now appears larger in the Blender window.](images/zoomed-cube.png)
+![The cube now appears larger in the 3D view.](images/zoomed-cube.png)
 
 --- collapse ---
 ---
-title: Use a mouse with a scroll button to zoom and rotate 
+title: Use a mouse with a scroll wheel to zoom and rotate 
 ---
 
-To navigate Blender using a computer mouse with a middle scroll button:
-+ Hold the middle-button down and drag the mouse around to rotate the view
-+ Scroll the middle-button forward and backward to zoom in and out of the view
+To navigate Blender using a computer mouse with a scroll wheel:
++ Press and hold the scroll wheel down and drag the mouse around to rotate the view
++ Use the scroll wheel to scroll forward and backward to zoom in and out of the view
 
 ![An animation showing the view rotating around the cube.](images/navigate-cube.gif)
 
@@ -42,16 +42,18 @@ To navigate Blender using a computer mouse with a middle scroll button:
 
 --- collapse ---
 ---
-title: Use a mouse without a scroll button to zoom and rotate
+title: Use a mouse without a scroll wheel to zoom and rotate
 ---
 
-If you do not have a computer mouse with a middle-button you can use the navigation icons. 
+If you do not have a computer mouse with a scroll wheel, you can use the navigation icons. 
 
-Place the mouse over the **zoom** or **move** icons to see the cursor change to 4 arrows. 
+Place the mouse over the **Zoom** or **Move** icon and the cursor will change to four arrows. 
 
-Hold the left mouse button down then drag the mouse around to change the view. 
+Click and hold with the left mouse button and drag the mouse around to change the view.
 
-![An animation showing the navigation icons being used to zoom in and out and rotate around the cube.](images/navigate-mouse.gif)
+To rotate the view, click and hold on the **Orbit** icon and drag the mouse around.
+
+![An animation showing the navigation icons being used to zoom in and out and rotate the view around the cube.](images/navigate-mouse.gif)
 
 --- /collapse ---
 
@@ -59,13 +61,13 @@ Hold the left mouse button down then drag the mouse around to change the view.
 
 --- task ---
 
-Click on the 'Object properties' icon to open the Object properties pane. 
+Click on the **Object Properties** icon to open the Object Properties tab.
 
-Goto the **Transform** settings and find **Scale**. Change the **Z** (up-down) axis property to `0.3`:
+Go to the **Transform** settings and find **Scale**. Change the **Z** (up–down) axis property to `0.3`:
 
-![A screen capture of the Blender editor. The Object properties icon is highlighted, it is an orange square with corners highlighted. In the Object properties window,  the Scale Z property is highlighted showing the number is '0.3'.](images/object-properties.png)
+![A screenshot of Blender with the Object Properties tab open. The Object Properties icon is highlighted. It is an orange square with the corners highlighted. In the Object Properties tab, the Scale Z property is highlighted and the value is set to 0.300. In the 3D view, the 3D cube object now has a smaller height.](images/object-properties.png)
 
-**Tip:** In the coordinates system used by Blender the **Z axis** points up. You might have used another coordinates system, some software such as Unity uses the Y axis to point up. 
+**Tip:** In the coordinate system used by Blender, the **z-axis** points up. You might have used another coordinate system; for example, in some software, such as Unity, the y-axis points up.
 
 --- /task ---
 
@@ -73,23 +75,23 @@ Goto the **Transform** settings and find **Scale**. Change the **Z** (up-down) a
 
 --- task ---
 
-Click on the 'Modifier properties' icon to open the Modifier properties pane: 
+Click on the **Modifier Properties** icon to open the Modifier Properties tab:
 
-![A screen capture of the Blender editor. The Modifier properties icon is highlighted, it is blue wrench.](images/modifier-properties.png)
+![A screenshot of Blender with the Modifier Properties tab open. The Modifier Properties icon is highlighted. It is a blue wrench.](images/modifier-properties.png)
 
-**Tip:** The icons in Blender are very small. Hover over them with your mouse to see a tool tip with the name of the tool.
+**Tip:** The icons in Blender are very small. Hold your mouse cursor over them to see a tool tip with the name of the tool.
 
 --- /task ---
 
 --- task ---
 
-Click on the 'Add modifier' dropdown then choose **Bevel**: 
+Click on the **Add Modifier** drop-down menu, then choose **Bevel**:
 
-![A screen capture of the Modifier properties pane with Bevel highlighted in the list of modifiers.](images/bevel-modifier.png)
+![The Add Modifier drop-down menu open in the Modifier Properties tab, with 'Bevel' highlighted.](images/bevel-modifier.png)
 
 **Notice:** 👀 The edges of the cube are now sloped:
 
-![The 3D cube with a bevel effect on all edges.](images/bevel-effect.png)
+![The cube with a bevel effect on all edges.](images/bevel-effect.png)
 
 --- /task ---
 
@@ -97,40 +99,40 @@ Click on the 'Add modifier' dropdown then choose **Bevel**:
 
 --- task ---
 
-Change the number of segments to `20`. This gives a smoother sloped edge: 
+Change the number of **Segments** to `20`. This gives a smoother sloped edge:
 
-![A screen capture of the 3D cube with smooth edges. The number in the Segments property is 20.](images/bevel-segments.png)
-
---- /task ---
-
---- task ---
-
-Click on the 'Bevel' dropdown arrow and select **Apply**: 
-
-![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/apply-modifier.png)
-
-**Notice:** 👀 The Bevel modifier has now disapeared from the Modifier pane.
+![In the Modifier Properties tab, the Segments property is highlighted and the number is set to 20. In the 3D view, the cube now has smoother sloped edges.](images/bevel-segments.png)
 
 --- /task ---
 
 --- task ---
 
-Right-click on the 3D cube model then select **Shade Smooth** to give your segments a smoother appearance: 
+Click on the **Bevel** drop-down menu arrow, then select **Apply**:
 
-![The Bevel dropdown expanded with top menu item `apply` highlighted.](images/smooth-shade.png)
+![The arrow highlighted and the Bevel drop-down menu open, with the first menu item 'Apply' highlighted.](images/apply-modifier.png)
 
-**Debug:** If you do not see the 'Shade Smooth' menu option, make sure you are in 'Object mode': 
-
-![The mode dropdown expanded with `Object mode` highlighted.](images/object-mode.png)
+**Notice:** 👀 The Bevel modifier has now disappeared from the Modifier Properties tab.
 
 --- /task ---
 
 --- task ---
 
-**Save** your project using 'File' -> 'Save As'. Name your file 'floor.blend': 
+Right-click on the 3D cube model, then select **Shade Smooth** to give your segments a smoother appearance: 
 
-![File save window with the name floor dot blend.](images/blender-save-as.png)
+![The object right-click menu with 'Shade Smooth' highlighted.](images/smooth-shade.png)
 
-**Tip:** You can reopen a saved Blender project using 'File' -> 'Open'. 
+**Debug:** If you do not see the **Shade Smooth** menu option, make sure you are in **Object Mode**: 
+
+![The Mode drop-down menu open in the top left-hand corner of the editor, with 'Object Mode' highlighted.](images/object-mode.png)
+
+--- /task ---
+
+--- task ---
+
+**Save** your project. Click on **File** > **Save As...**. Name your file `floor.blend`:
+
+![The file save window with the name "floor.blend" entered.](images/blender-save-as.png)
+
+**Tip:** To reopen a saved Blender project, you can click on **File** > **Open**.
 
 --- /task ---
