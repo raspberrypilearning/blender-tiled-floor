@@ -2,7 +2,13 @@
 
 The tiled floor from this **Blender: Create a 3D tiled floor** project can be exported and used in our [More Unity](https://projects.raspberrypi.org/en/pathways/more-unity) path.
 
-<mark>Embed webGL of 3rd Explore project with the tiled floor</mark>
+--- no-print ---
+
+Control the movement of player one using <kbd>WASD</kbd> (or <kbd>ZQSD</kbd>). Player Two is controlled using the arrow keys. Try to find the safe route across the tiles before the other player!  
+
+<iframe allowtransparency="true" width="710" height="500" scrolling = "no" src="https://raspberrypilearning.github.io/unity-webgl/DontFallThrough" frameborder="0"></iframe>
+
+--- /no-print ---
 
 ### Use Blender to export your tiled floor
 
