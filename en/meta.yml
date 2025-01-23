@@ -9,6 +9,8 @@ last_tested: '2021-03-26'
 steps:
 - title: You will make
 - title: Create your first tile
+  completion:
+  - engaged
 - title: Make a tiled floor
 - title: Set the centre point
 - title: Quick quiz
@@ -18,4 +20,8 @@ steps:
     questions: 3
     passing_score: 3
 - title: Use your tiled floor in Unity
+  completion:
+  - internal
 - title: Use your new skills in Blender
+  completion:
+  - external
